@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      home: Text('Hello,!'),
+      home: Text('PT RET Sukses!'),
     );
   }
 }
